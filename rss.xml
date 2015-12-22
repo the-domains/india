@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[India]]></title>
+        <description><![CDATA[India]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 14:41:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[America Needs A New Marketing Plan]]></title>
+            <description><![CDATA[<h1>America Needs A New Marketing Plan</h1>]]></description>
+            <link>undefinedamerica-needs-a-new-marketing-plan/index.html</link>
+            <guid isPermaLink="false">2eec4335-2032-4629-bb9e-6d418cf1826c</guid>
+            <pubDate>Tue, 22 Dec 2015 14:41:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
